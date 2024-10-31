@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+ 
+}
+
+#taskList {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+}
+
+.task-item {
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    margin: 5px 1px;
+}
+
+button {
+    margin-left: 10px;
+    color: blue;
+    background-color: white;
+    
+}
